@@ -5,6 +5,7 @@
   Utilized Knn, Random Forest, XGBoost, and SGD classifiers from scikit-learn and xgboost for classification tasks.
 * Data Visualization:
   Employed matplotlib and seaborn for visualizing data and model evaluation.
+* Hyperparameter Tuning: Used randomized search cv for hyperparameter tuning to enhance model performance.  
 * Model Evaluation:
   Utilized ROC-AUC curves for model evaluation.
 
